@@ -1,4 +1,4 @@
-# TeachMeSkills_HW_Lesson_2
+# Control statements
 
 >This repository was created for homework in lesson №2.
 
