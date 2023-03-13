@@ -5,17 +5,17 @@
 ## Tasks:
 
 ### *Cycles*
-1.  Use a for loop to display odd numbers from 1 to 99.  
+1. Use a for loop to display odd numbers from 1 to 99.  
    When solving, use the increment operator (++).
-2.  It is necessary to display numbers from 5 to 1 on the screen.  
+2. It is necessary to display numbers from 5 to 1 on the screen.  
    When solving, use the decrement (--) operator.
-3.  Write a program where the user enters any positive integer.  
+3. Write a program where the user enters any positive integer.  
    And the program sums up all numbers from 1 to the number entered by the user.
-4.  It is necessary that the program displays the following sequence on the screen:  
+4. It is necessary that the program displays the following sequence on the screen:  
    7 14 21 28 35 42 49 56 63 70 77 84 91 98.  
    Use a while loop in your solution.
-5.  Output the first 10 numbers of the sequence 0, -5, -10, -15...
-6.  Write a program that displays the squares of numbers from 10 to 20 inclusive.
+5. Output the first 10 numbers of the sequence 0, -5, -10, -15...
+6. Write a program that displays the squares of numbers from 10 to 20 inclusive.
 
 ### *Control structures*
 1. Write a program that displays the name of the season by month number.  
