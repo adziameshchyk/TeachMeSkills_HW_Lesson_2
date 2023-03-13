@@ -28,7 +28,7 @@
            If –5>= t > –20, then output "Normal".  
            If –20>= t, then output "Cold".  
 5. By the entered number, determine the color of the rainbow  
-   (1 -red, 4 green, etc.).
+   (1 -red, 4 green, etc.). 
    
 ### *Additional tasks*
 1. Display the first 11 terms of the Fibonacci sequence.
